@@ -1,35 +1,68 @@
-# Monthly Web Minigame Challenge
+# 네온 배달부
 
-> Dacon / DAKER Monthly Hackathon Project
-
----
-
-## 🏆 Challenge Summary
-
-This project was created for the **Dacon / DAKER Monthly Hackathon: Web Minigame Challenge**.
-
-The challenge focuses on creating a playable web-based minigame that is simple to understand, quick to play, and engaging enough to make users want to retry.
-
-The main goal is to deliver a short but complete gameplay experience through:
-
-- Intuitive rules
-- Quick user engagement
-- Replayable game mechanics
-- A distinctive game idea
-- Smooth web-based gameplay
+> DAKER 월간 해커톤 웹 미니게임 챌린지 제출 프로젝트
 
 ---
 
-## Status
+## 팀명
 
-Project setup in progress.
+왕십리스타벅스
 
 ---
 
-## 📄 Proposal Document
+## 프로젝트 소개
 
-The initial game proposal can be found in the PDF below.
+**네온 배달부**는 짧은 시간 안에 직관적으로 플레이할 수 있는 웹 미니게임입니다.
 
-- [Minigame Proposal](./docs/minigame_proposal.pdf)
+플레이어는 네온 도시를 배경으로 배달부 캐릭터를 조작하며, 제한된 상황 속에서 빠르게 판단하고 더 높은 기록에 도전하게 됩니다.
 
+간단한 조작 방식과 빠른 재도전 구조를 통해 누구나 쉽게 플레이할 수 있고, 반복해서 더 높은 점수를 노릴 수 있도록 구성했습니다.
 
+---
+
+## 게임 방법
+
+* **튜토리얼 제공:** 게임을 시작하면 튜토리얼을 통해 기본 조작법을 확인할 수 있습니다.
+* 마우스 클릭 또는 터치로 와이어를 연결해 배달부를 이동시킵니다.
+* 타이밍에 맞춰 와이어를 놓으며 장애물을 피하고 앞으로 나아갑니다.
+* 스페이스바를 사용해 부스터를 발동할 수 있습니다.
+* 음식 배달 지점을 통과하며 거리 기록과 평점을 높이는 것이 목표입니다.
+
+---
+
+## 핵심 재미 요소
+
+* 짧은 시간 안에 바로 이해할 수 있는 게임 방식
+* 간단한 조작과 빠른 플레이 흐름
+* 실패 후 즉시 재도전 가능한 구조
+* 거리 기록과 평점 시스템을 활용해 최고 기록 경신을 반복적으로 유도
+* 와이어 이동과 부스터를 활용한 속도감 있는 플레이
+* 이펙트와 음향을 통해 네온 도시를 질주하는 듯한 몰입감 제공
+
+---
+
+## 구현 방식
+
+* HTML, CSS, JavaScript를 사용해 구현했습니다.
+* 별도의 프레임워크 없이 순수 웹 기술만으로 제작했습니다.
+* 게임 화면, 스타일, 동작 로직을 하나의 `index.html` 파일 안에 구성했습니다.
+
+---
+
+## 실행 방법
+
+저장소의 `index.html` 파일을 브라우저에서 열면 바로 게임을 플레이할 수 있습니다.
+
+또는 아래 배포 URL을 통해 웹에서 바로 실행할 수 있습니다.
+
+---
+
+## 플레이 링크
+
+배포 URL: 추후 입력
+
+---
+
+## 시연 영상
+
+YouTube 링크: https://youtu.be/2zMaUENzF68
