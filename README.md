@@ -59,7 +59,7 @@
 
 ## 플레이 링크
 
-배포 URL: 추후 입력
+배포 URL: https://songdowon.github.io/monthly_web_minigame_challenge/
 
 ---
 
